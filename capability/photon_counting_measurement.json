@@ -1,0 +1,15 @@
+{
+    "label": "Photon counting measurement",
+    "endpoint": "/multiverse/qnet/tt/Alice",
+    "when": "now",
+    "name": "Alice",
+    "parameters": {},
+    "results": [
+        "absTime","relTime.ms","channel1", "channel2"
+    ],
+    "schema": "44b3c67ebad2debfb38e90d8afd66c3l",
+    "timestamp": "2022-04-21 13:54:10.91",
+    "agentId": "agent-Alice",
+    "role": "admin",
+    "capability": "measure"
+}
